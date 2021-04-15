@@ -66,9 +66,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
     <div class="w3-twothird">
       <h1>Ideen?</h1>
-      <h5 class="w3-padding-32">Eventuell könnte diese Seite ja hierzu fungieren:</h5>
+      <h5 class="w3-padding-32">Eventuell könnte diese Seite ja hierzu fungieren / Ideen / ToDo /:</h5>
 
-      <p class="w3-text-grey">-als Frontpage wenn man chrome öffnet...dann mit lesezeichen links einfügen idk</p>
+      <p class="w3-text-grey">
+      -als Frontpage wenn man chrome öffnet...dann mit lesezeichen links einfügen idk <br>
+      <br>
+      -diesen Link ganz Oben wegbringen
+      </p>
     </div>
   </div>
 </div>
